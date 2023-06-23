@@ -1,0 +1,69 @@
+.background {
+    position: relative;
+    width: 1611px;
+    height: 936px;
+    background-color: #1E1F2F;
+}
+
+.white-box {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 176px;
+    top: 159px;
+    background-color: white;  
+}
+/* tak letak lagi logo R from vector */
+.logo-R {
+    position: absolute;
+    width: 50px;
+    height: 56px;
+    top: 189px;
+    left: 206px;
+    background-color: red;
+}
+
+.warmups {
+    position: absolute;
+    /* border: 1px solid burlywood; */
+    top: 155px;
+    left: 290px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color: white;
+}
+
+.main-content {
+    position: absolute;
+    top: 300px;
+    left: 176px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 100px;
+    color: white;
+}
+
+.tenmax {
+    position: absolute;
+    bottom: 295px;
+    left: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color: white;
+}
+
+.minute {
+    position: absolute;
+    bottom: 295px;
+    left: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color: white;
+}
+
+
+
+
