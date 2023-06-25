@@ -34,36 +34,40 @@
     color: white;
 }
 
-.main-content {
+article {
     position: absolute;
-    top: 300px;
+    top: 210px;
     left: 176px;
     font-family: 'Bebas Neue', sans-serif;
     font-style: normal;
-    font-size: 100px;
+    font-size: 110px;
     color: white;
 }
 
-.tenmax {
+.footer > . {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 5px solid white;
+}
+
+.icon-orang {
     position: absolute;
-    bottom: 295px;
-    left: 50px;
+    bottom: 200px;
+    left: 200px;
     font-family: 'Bebas Neue', sans-serif;
     font-style: normal;
-    font-size: 80px;
+    font-size: 75px;
     color: white;
 }
 
-.minute {
+.icon-jam {
     position: absolute;
-    bottom: 295px;
-    left: 50px;
+    bottom: 200px;
+    left: 500px;
     font-family: 'Bebas Neue', sans-serif;
     font-style: normal;
-    font-size: 80px;
+    font-size: 75px;
     color: white;
 }
-
-
-
 
